@@ -33,17 +33,15 @@ By the end, you will have:
 | 6 | API & Integration Platform | Gateways, BFF, contracts |
 | 7 | Large-Scale Distributed System | Architect-level synthesis |
 
----
 
 ## 🧱 Project 1: Modular Monolith → Microservices
+
+### 📄 [Monolith Project README](project1/monolith/README.md)
 
 ### 🎯 Goal
 Understand **why** microservices exist, not just how to build them.
 
 ### Key Topics
-- Decomposition  
-- Bounded Contexts  
-- Avoiding premature microservices  
 
 ### Architecture
 Start with:
